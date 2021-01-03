@@ -37,7 +37,7 @@ uint16_t next_y = 0;
 
 
 //graphic
-#include "graphic.cpp"
+#include "graphic.c"
 
 
 /*

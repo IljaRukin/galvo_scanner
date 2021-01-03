@@ -33,7 +33,7 @@ uint16_t y = 0;
 
 
 //graphic
-#include "graphic.cpp"
+#include "graphic.c"
 
 
 /*

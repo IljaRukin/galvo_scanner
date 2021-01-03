@@ -20,7 +20,7 @@ with open('graphic.hpgl') as csv_file:
                     y.append((val.pop()))
                     p.append((pen))
 
-f = open('graphic.cpp','w')
+f = open('graphic.c','w')
 f.write('#include <avr/pgmspace.h>\n')
 f.write('#define ARR_LENGTH ')
 f.write(str(len(p)))

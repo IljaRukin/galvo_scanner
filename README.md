@@ -20,8 +20,8 @@ the following programs are supplied:
 
 
 the procedure to generate coordinate points form any svg is as follows:
-- in inkscape set svg size to 1inch x 1inch and export it as graphics.hpgl with 4095dpi x 4095dpi, this generated the coordinates
-- run script "convert.py" to convert the graphics.hpgl file to graphics.cpp, this reformats the coordinate points into three arrays for the x/y-coordinated and if the laser has to be on/off at that particular coordinates (the separate steps and their output are visualized in hpgl to hex.ipynb)
+- in inkscape set svg size to 1inch x 1inch and export it as graphics.hpgl with 4095dpi x 4095dpi, this generates the coordinates
+- run script "convert.py" to convert the graphics.hpgl file to graphics.cpp, this reformats the coordinate points into three arrays for the x/y-coordinated and if the laser has to be on/off at that particular coordinates (the separate steps and their output are visualized in "hpgl to hex.ipynb") \
 an example is stored in the folder "svg to coordinates"
 
 ## issues
