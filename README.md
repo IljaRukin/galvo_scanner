@@ -5,7 +5,7 @@ setup for displaying a still images
 <img src="/img/electronics.jpg" style="width:20%;">
 <img src="/img/happy new year.jpg" style="width:20%;">
 
-here is a video demonstration:
+here is a video demonstration: \
 [<img src="https://img.youtube.com/vi/ha9n86Zofew/maxresdefault.jpg" width="20%">](https://youtu.be/ha9n86Zofew)
 
 the scanner is composed of a power supply, two mirror galvanometers and their control units ordered from china. the control units are controled with an differential Signal with +/-5V max. \
