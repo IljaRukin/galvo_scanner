@@ -5,7 +5,7 @@ setup for displaying a still images
 <img src="/img/electronics.jpg" style="width:20%;">
 <img src="/img/happy new year.jpg" style="width:20%;">
 
-[<img src="https://img.youtube.com/vi/ha9n86Zofew/maxresdefault.jpg" width="20%">](https://youtu.be/ha9n86Zofew)]
+[<img src="https://img.youtube.com/vi/ha9n86Zofew/maxresdefault.jpg" width="20%">](https://youtu.be/ha9n86Zofew)
 
 the scanner is composed of a power supply, two mirror galvanometers and their control units ordered from china. the control units are controled with an differential Signal with +/-5V max. \
 this signal is generated from an analog signal using one inverting op-amp to generate the negative output and one op-amp as a voltage buffer for the original signal for each axis. \
